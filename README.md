@@ -1,7 +1,5 @@
 # Challenge Locaweb
 
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 ## 📚 Descrição
 
 O **Challenge Locaweb** foi desenvolvido como parte de um projeto acadêmico da **FIAP**, com foco em construir uma aplicação escalável, eficiente e segura. O aplicativo foi projetado para oferecer funcionalidades robustas, desde o gerenciamento de preferências e configurações de usuários até a integração com serviços de e-mail e controle de spam.
